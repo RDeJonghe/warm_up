@@ -104,3 +104,8 @@ console.log(integers); // => [1, 3, -4]
 */
 
 /* Problem 6 from the intro to JS book chapter on arrays */
+
+let myVariable = 'Hello, World';
+myVariable = 23;
+
+console.log(myVariable);
